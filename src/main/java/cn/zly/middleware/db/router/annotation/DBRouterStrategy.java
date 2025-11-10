@@ -1,4 +1,4 @@
-package cn.zly.midddlewera.db.router.annotation;
+package cn.zly.middleware.db.router.annotation;
 
 import java.lang.annotation.*;
 
